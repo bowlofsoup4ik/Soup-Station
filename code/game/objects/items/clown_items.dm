@@ -14,7 +14,7 @@
 	name = "soap"
 	desc = "A cheap bar of soap. Doesn't smell."
 	gender = PLURAL
-	icon = 'icons/obj/watercloset.dmi'
+	icon = 'modular_soup/master_files/icons/obj/soap.dmi' //SOUP EDIT
 	icon_state = "soap"
 	inhand_icon_state = "soap"
 	worn_icon_state = "soap"
